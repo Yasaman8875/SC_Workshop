@@ -10,5 +10,4 @@ Single-cell analysis is a powerful technique used in biology and genomics to stu
 Linux Part :
 step 1 : Download SRA
 step 2 : SRA to Fastq
-step 2 : SRA to Fastq
 Step 3 : Add CB(Cell Barcode )
