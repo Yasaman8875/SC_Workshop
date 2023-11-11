@@ -12,3 +12,4 @@ step 1 : Download SRA
 step 2 : SRA to Fastq
 Step 3 : Add CB(Cell Barcode )
 step 4 : Filter XQ
+step 5 : Trim Adaptor
