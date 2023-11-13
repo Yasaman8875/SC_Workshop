@@ -14,3 +14,4 @@ Step 3 : Add CB(Cell Barcode )
 step 4 : Filter XQ
 step 5 : Trim Adaptor
 step 5 : Scale Data
+step 6 : Trim Poly A Tail .
