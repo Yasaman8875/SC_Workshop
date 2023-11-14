@@ -15,3 +15,5 @@ step 4 : Filter XQ
 step 5 : Trim Adaptor
 step 5 : Scale Data
 step 6 : Trim Poly A Tail .
+step 6 : Trim Poly A Tail .
+step 7 : Bam to Fastq
