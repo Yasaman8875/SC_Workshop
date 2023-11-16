@@ -18,3 +18,4 @@ step 6 : Trim Poly A Tail .
 step 6 : Trim Poly A Tail .
 step 7 : Bam to Fastq
 step 8 : Align Using any aligner , such as ( STAR ).َ a refrence genom like HGR38 must be available to map reads .
+step 9 : Aligned Bam file ( Sorting )
