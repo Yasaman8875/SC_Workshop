@@ -22,3 +22,4 @@ step 9 : Aligned Bam file ( Sorting )
 step 10: Sorting
 step 11: Tag Bam file
 
+
