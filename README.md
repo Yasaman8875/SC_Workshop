@@ -21,4 +21,3 @@ step 8 : Align Using any aligner , such as ( STAR ).َ a refrence genom like HGR
 step 9 : Aligned Bam file ( Sorting )
 step 10: Sorting
 step 11: Tag Bam file
-
